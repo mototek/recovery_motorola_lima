@@ -17,7 +17,6 @@
 
 # Release name
 PRODUCT_RELEASE_NAME := Motorola One Macro
-PRODUCT_USE_DYNAMIC_PARTITIONS := true
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base.mk)
 
